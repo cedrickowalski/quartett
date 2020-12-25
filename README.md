@@ -2,7 +2,7 @@
 This repository is for implementing the game "quartett".
 
 The game quartett can be played by 2 - 8 players.
-It has 32 cards with 8 x quartetts. (numbers: 7, 8, 9, 10, B, D, K, A, symbols: ♠, ♣, ♥, ♦)
+It has 32 cards with 8 x quartetts (numbers: 7, 8, 9, 10, B, D, K, A, symbols: ♠, ♣, ♥, ♦).
 4 cards of a kind (f.e. 7, 7, 7, 7) build a quartett.
 If a quartett is build, put it down.,
 Cards are randomly distributed:
@@ -15,3 +15,4 @@ Active player asks random player for specific card:
   if negativ 3- 8 players: end and next player starts move
 The game end if one player has no more cards left.
 The winner is the one with the most quartetts.
+
